@@ -58,3 +58,9 @@ Clone the repository to get started with CampusNotes.
 
 
 
+\## Project Structure
+
+The project documentation is organized into separate sections.
+
+
+
