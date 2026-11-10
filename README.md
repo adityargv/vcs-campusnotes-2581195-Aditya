@@ -40,3 +40,7 @@ Aditya Singh
 
 This update was made inside the cloned repository.
 
+\## Search Notes
+
+Students can organize and search their academic notes easily.
+
