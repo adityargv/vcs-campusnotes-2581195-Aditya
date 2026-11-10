@@ -68,7 +68,3 @@ The project documentation is organized into separate sections.
 
 Project documentation and configuration are maintained regularly.
 
-
-
-
-
