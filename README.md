@@ -70,7 +70,5 @@ Project documentation and configuration are maintained regularly.
 
 
 
-TODO: Complete the pending CampusNotes feature.
-
 
 
