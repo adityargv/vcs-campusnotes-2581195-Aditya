@@ -50,3 +50,11 @@ Students can organize and search their academic notes easily.
 
 Improved the organization of academic resources.
 
+
+
+\## Installation
+
+Clone the repository to get started with CampusNotes.
+
+
+
