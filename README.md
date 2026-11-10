@@ -44,3 +44,9 @@ This update was made inside the cloned repository.
 
 Students can organize and search their academic notes easily.
 
+
+
+\## Bug Fix
+
+Improved the organization of academic resources.
+
